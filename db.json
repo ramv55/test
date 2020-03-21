@@ -1,13 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "products": [
+        {"id":"1","name":"Big Bang Ferrari Carbon Limited Edition","price":"22000","sku":"401.NJ.0123.VR","stock":"Available"},
+        {"id":"2","name":"BOCCI Automatic","price":"264","sku":"BOCCI-011","stock":"Available"},
+        {"id":"3","name":"Nordgreen Native Scandinavian","price":"2000","sku":"13039","stock":"Available"},
+        {"id":"4","name":"Ferrari Carbon","price":"12000","sku":"401.NJ","stock":"No Stock"},
+        {"id":"5","name":"Carbon Limited Edition","price":"3000","sku":"0123.VR","stock":"Available"},
+      ],
   "profile": {
     "name": "typicode"
   }
